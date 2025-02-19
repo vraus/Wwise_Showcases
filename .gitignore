@@ -1,6 +1,10 @@
 # Visual Studio 2015 user specific files
 Wwise_Showcases/.vs/
 Wwise_Showcases/.idea/
+Wwise_Showcases/Wwise_Showcases_WwiseProject/
+Wwise_Showcases/Plugins/Wwise/
+Wwise_Showcases/Plugins/WwiseNiagara/
+Wwise_Showcases/Plugins/WwiseSoundEngine/
 
 # Compiled Object files
 Wwise_Showcases/*.slo
